@@ -1,0 +1,6 @@
+/account
+/account/profileview
+/dashboard
+/orders
+/billing
+/notifications
