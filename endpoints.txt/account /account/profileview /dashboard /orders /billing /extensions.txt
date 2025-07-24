@@ -1,0 +1,9 @@
+.css
+.js
+.jpg
+.html
+.json
+.pdf
+/test.css
+;style.css
+.jpg.php
